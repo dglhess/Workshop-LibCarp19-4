@@ -1,14 +1,14 @@
-# Readme-Datei für die Jupyter-Notebooks 2 Tage Library Carpentry Workshop
+# Readme-Datei für das erste Test-Repo im Rahmen des Library Carpentry Workshops, April 2019 ZBIW
+2-tägiger Workshop
+Library Carpentry
 
-Die Dateien enthalten Sowohl den Tafelanschrieb als auch Notizen. 
+## Inhalte
+\begin{itemize}
+  \item Unix Shell
+  \item JupyterNotebook
+  \item Markdown, pandas, json
+  \item git und gitHub
+  \item unzählige Kleinigkeiten
+\end{itemize}
 
-## Genauere Informationen
-
-Enthalten Einführung in Python inkl. pandas und JSON (Tag2). 
-
-### Übrigens
-
-Diese Datei ist in Markdown geschrieben! Netterweise kann man auch LaTeX-Code einbauen in JupyterNB
-
-### Ach ja und...
-
+Alle Dateien in Jupyter Notebook (erster Teil der Notizen noch hinzuzufügen)
