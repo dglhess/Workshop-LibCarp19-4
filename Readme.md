@@ -3,12 +3,12 @@
 Library Carpentry
 
 ## Inhalte
-\begin{itemize}
-  \item Unix Shell
-  \item JupyterNotebook
-  \item Markdown, pandas, json
-  \item git und gitHub
-  \item unzählige Kleinigkeiten
-\end{itemize}
+
+Unix Shell
+JupyterNotebook
+Markdown, pandas, json
+git und gitHub
+unzählige Kleinigkeiten
+
 
 Alle Dateien in Jupyter Notebook (erster Teil der Notizen noch hinzuzufügen)
