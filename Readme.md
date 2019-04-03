@@ -4,8 +4,8 @@ Die Dateien enthalten Sowohl den Tafelanschrieb als auch Notizen.
 
 ## Genauere Informationen
 
-Enthalten Einführung in Python inkl. Pandas und JSON (Tag2). 
+Enthalten Einführung in Python inkl. pandas und JSON (Tag2). 
 
 ### Übrigens
 
-Diese Datei ist in Markdown geschrieben! 
+Diese Datei ist in Markdown geschrieben! Netterweise kann man auch LaTeX-Code einbauen in JupyterNB
