@@ -16,7 +16,6 @@ Alle Dateien in Jupyter Notebook (erster Teil der Notizen noch hinzuzufügen)
 
 ## Files
 
-- Mitschrift.tex von der 1. Hälfte des 1. Tages - in LaTeX
-- Bilder für die LaTeX-Mitschrift
+- Mitschrift (LaTeX) von der 1. Hälfte des 1. Tages
 - Mitschrift in JupyterNB vom 2. Teil des 1. Tages
 - Mitschrift in JupyterNB vom 2. Tag
