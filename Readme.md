@@ -11,11 +11,8 @@ Library Carpentry
 - git und gitHub
 - unzählige Kleinigkeiten
 
-
-Alle Dateien in Jupyter Notebook (erster Teil der Notizen noch hinzuzufügen)
-
 ## Files
 
 - Mitschrift (LaTeX) von der 1. Hälfte des 1. Tages
-- Mitschrift in JupyterNB vom 2. Teil des 1. Tages
+- Mitschrift in JupyterNotebook vom 2. Teil des 1. Tages
 - Mitschrift in JupyterNB vom 2. Tag
